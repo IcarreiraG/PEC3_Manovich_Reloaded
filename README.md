@@ -1,7 +1,7 @@
 # PEC3_Manovich_Reloaded
 
-Autor: Fausto Pérez Málaga
-Fecha: diciembre 2023
+Autor: Iván Carreira González.
+Fecha: diciembre 2023.
 
 # Sony Vegas como Ejemplo de Hibridación en los Nuevos Medios
 
