@@ -40,6 +40,8 @@ Esto permite desdifujar los formatos que previamente estaban claramente definido
 
 Godot Engine se destaca como un ejemplo sobresaliente de hibridación creativa al fusionar distintos elementos que tradicionalmente se encuentran separados en el desarrollo de videojuegos. Esta plataforma de desarrollo de código abierto democratiza el acceso a la creación de juegos, incorporando características que reflejan la esencia de la hibridación en este ámbito.
 
+![Logo de Godot Engine]([https://ejemplo.com/ejemplo.png](https://commons.wikimedia.org/wiki/File:Godot_logo.svg#/media/Archivo:Godot_logo.svg))
+
 ## Multiplataforma y Multidisciplinario
 
 Godot Engine permite exportar proyectos a múltiples plataformas, permitiendo a los desarrolladores crear juegos para una variedad de dispositivos. Su enfoque multidisciplinario integra herramientas para la creación de gráficos, animaciones y programación en un solo entorno, derribando las barreras entre disciplinas creativas.
