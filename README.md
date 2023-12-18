@@ -16,7 +16,7 @@ Teniendo esto en cuenta, vamos a ejemplificar este concepto haciendo uso de dos 
 # Vegas Pro como Ejemplo de Hibridación en los Nuevos Medios  
 En un mundo donde las fronteras entre disciplinas artísticas están marcadas, Vegas Pro se erige como una de las opciones predilectas para la edición de video y audio, redefine la manera en que concebimos y damos vida a proyectos multimedia, ofreciendo una herramienta que facilita la innovación creativa para cada fotograma o sonido que queramos implementar en nuestra obra audiovisual,por lo que es un caso a tener en cuenta a la hora de hablar de hibridación.
 
-![Logo de Vegas Pro]()
+![Logo de Vegas Pro](Vegas_Pro_19.svg)
 ## Características de Hibridación en Vegas Pro
 
 1. **Integración de Múltiples Medios:**
@@ -44,23 +44,23 @@ Esto permite desdifujar los formatos que previamente estaban claramente definido
 
 Godot Engine se destaca como un ejemplo sobresaliente de hibridación creativa al fusionar distintos elementos que tradicionalmente se encuentran separados en el desarrollo de videojuegos. Esta plataforma de desarrollo de código abierto democratiza el acceso a la creación de juegos, incorporando características que reflejan la esencia de la hibridación en este ámbito.
 
-![Logo de Godot Engine]()
+![Logo de Godot Engine](Godot_logo.svg)
 
 1. **Multiplataforma y Multidisciplinario:**
 
--Godot Engine permite exportar proyectos a múltiples plataformas, permitiendo a los desarrolladores crear juegos para una variedad de dispositivos. Su enfoque multidisciplinario integra herramientas para la creación de gráficos, animaciones y programación en un solo entorno, derribando las barreras entre disciplinas creativas.
+   - Godot Engine permite exportar proyectos a múltiples plataformas, permitiendo a los desarrolladores crear juegos para una variedad de dispositivos. Su enfoque multidisciplinario integra herramientas para la creación de gráficos, animaciones y programación en un solo entorno, derribando las barreras entre disciplinas creativas.
 
 2. **Herramientas Visuales y Programación:**
 
--La plataforma incorpora un sistema visual de nodos para el diseño de escenas y la lógica del juego, junto con la opción de programación en lenguajes como GDScript y C#. Esta combinación de herramientas visuales y programación tradicional refleja la hibridación al ofrecer flexibilidad tanto a diseñadores visuales como a programadores.
+   - La plataforma incorpora un sistema visual de nodos para el diseño de escenas y la lógica del juego, junto con la opción de programación en lenguajes como GDScript y C#. Esta combinación de herramientas visuales y programación tradicional refleja la hibridación al ofrecer flexibilidad tanto a diseñadores visuales como a programadores.
 
 3. **Open Source y Comunidad Colaborativa:**
 
--La filosofía de código abierto de Godot Engine fomenta la colaboración y la contribución de la comunidad. Este enfoque híbrido de desarrollo, donde profesionales y aficionados pueden unir fuerzas, resulta en una plataforma rica y diversa que abraza la hibridación no solo en términos tecnológicos, sino también en el intercambio de ideas y conocimientos.
+   - La filosofía de código abierto de Godot Engine fomenta la colaboración y la contribución de la comunidad. Este enfoque híbrido de desarrollo, donde profesionales y aficionados pueden unir fuerzas, resulta en una plataforma rica y diversa que abraza la hibridación no solo en términos tecnológicos, sino también en el intercambio de ideas y conocimientos.
 
 4. **Sistema Escalable:**
 
--Godot permite a los desarrolladores comenzar con proyectos simples y escalarlos a juegos más complejos. Esta adaptabilidad y escalabilidad representan una forma de hibridación, ya que la plataforma se ajusta a las necesidades cambiantes de los desarrolladores y proyectos a lo largo del tiempo.
+   - Godot permite a los desarrolladores comenzar con proyectos simples y escalarlos a juegos más complejos. Esta adaptabilidad y escalabilidad representan una forma de hibridación, ya que la plataforma se ajusta a las necesidades cambiantes de los desarrolladores y proyectos a lo largo del tiempo.
 
 ## Conclusión
 
