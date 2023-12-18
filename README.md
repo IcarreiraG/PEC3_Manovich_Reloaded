@@ -13,7 +13,7 @@ Por lo que, para empezar, podríamos describir el concepto de hibridación como 
 Teniendo esto en cuenta, vamos a ejemplificar este concepto haciendo uso de dos aplicaciones, por un lado,tendremos el editor de video y audio "Vegas Pro" y por otro, el motor Godot Engine.
 
 
-## Sony Vegas como Ejemplo de Hibridación en los Nuevos Medios  
+# Sony Vegas como Ejemplo de Hibridación en los Nuevos Medios  
 En un mundo donde las fronteras entre disciplinas artísticas
 
 ## Características de Hibridación en Vegas Pro
@@ -56,6 +56,12 @@ La filosofía de código abierto de Godot Engine fomenta la colaboración y la c
 
 Godot permite a los desarrolladores comenzar con proyectos simples y escalarlos a juegos más complejos. Esta adaptabilidad y escalabilidad representan una forma de hibridación, ya que la plataforma se ajusta a las necesidades cambiantes de los desarrolladores y proyectos a lo largo del tiempo.
 
+## Conclusión
+
 En resumen, Godot Engine encarna la hibridación creativa al reunir elementos diversos en un entorno unificado y accesible. Desde su enfoque multidisciplinario hasta su naturaleza de código abierto y su capacidad para escalar proyectos, Godot demuestra cómo la hibridación puede impulsar la innovación en el desarrollo de videojuegos.
+
+***
+
+De Andrea Calabró - logo.svg (originally godot_logo.svg) in Godot Engine at GitHub, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=40939493
 
 
