@@ -71,12 +71,16 @@ En resumen, Godot Engine encarna la hibridación creativa al reunir elementos di
 
 ***
 ## IMAGENES Y BIBLIOGRAFÍA  
-Lev Manovich (2013)."El software toma el mando".
-
 
 De Sony - upload: MARCODEDDE - https://www.vegascreativesoftware.com/it/vegas-pro/, Dominio público, https://commons.wikimedia.org/w/index.php?curid=109403342
 
 
 De Andrea Calabró - logo.svg (originally godot_logo.svg) in Godot Engine at GitHub, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=40939493
+
+Lev Manovich (2013)."El software toma el mando".
+
+Features-Godot. https://godotengine.org/features/
+
+Vegas Pro. https://www.vegascreativesoftware.com/es/vegas-pro/#productMenu
 
 
