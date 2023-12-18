@@ -18,6 +18,8 @@ En un mundo donde las fronteras entre disciplinas artísticas están marcadas, V
 <p align="center">
    <img src="Vegas_Pro_19.svg" alt="Logo de Vegas Pro">
 </p>
+
+
 ## Características de Hibridación en Vegas Pro
 
 1. **Integración de Múltiples Medios:**
