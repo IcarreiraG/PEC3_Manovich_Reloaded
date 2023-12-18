@@ -46,21 +46,21 @@ Godot Engine se destaca como un ejemplo sobresaliente de hibridación creativa a
 
 ![Logo de Godot Engine]()
 
-## Multiplataforma y Multidisciplinario
+1. **Multiplataforma y Multidisciplinario:**
 
-Godot Engine permite exportar proyectos a múltiples plataformas, permitiendo a los desarrolladores crear juegos para una variedad de dispositivos. Su enfoque multidisciplinario integra herramientas para la creación de gráficos, animaciones y programación en un solo entorno, derribando las barreras entre disciplinas creativas.
+-Godot Engine permite exportar proyectos a múltiples plataformas, permitiendo a los desarrolladores crear juegos para una variedad de dispositivos. Su enfoque multidisciplinario integra herramientas para la creación de gráficos, animaciones y programación en un solo entorno, derribando las barreras entre disciplinas creativas.
 
-## Herramientas Visuales y Programación
+2. **Herramientas Visuales y Programación:**
 
-La plataforma incorpora un sistema visual de nodos para el diseño de escenas y la lógica del juego, junto con la opción de programación en lenguajes como GDScript y C#. Esta combinación de herramientas visuales y programación tradicional refleja la hibridación al ofrecer flexibilidad tanto a diseñadores visuales como a programadores.
+-La plataforma incorpora un sistema visual de nodos para el diseño de escenas y la lógica del juego, junto con la opción de programación en lenguajes como GDScript y C#. Esta combinación de herramientas visuales y programación tradicional refleja la hibridación al ofrecer flexibilidad tanto a diseñadores visuales como a programadores.
 
-## Open Source y Comunidad Colaborativa
+3. **Open Source y Comunidad Colaborativa:**
 
-La filosofía de código abierto de Godot Engine fomenta la colaboración y la contribución de la comunidad. Este enfoque híbrido de desarrollo, donde profesionales y aficionados pueden unir fuerzas, resulta en una plataforma rica y diversa que abraza la hibridación no solo en términos tecnológicos, sino también en el intercambio de ideas y conocimientos.
+-La filosofía de código abierto de Godot Engine fomenta la colaboración y la contribución de la comunidad. Este enfoque híbrido de desarrollo, donde profesionales y aficionados pueden unir fuerzas, resulta en una plataforma rica y diversa que abraza la hibridación no solo en términos tecnológicos, sino también en el intercambio de ideas y conocimientos.
 
-## Sistema Escalable
+4. **Sistema Escalable:**
 
-Godot permite a los desarrolladores comenzar con proyectos simples y escalarlos a juegos más complejos. Esta adaptabilidad y escalabilidad representan una forma de hibridación, ya que la plataforma se ajusta a las necesidades cambiantes de los desarrolladores y proyectos a lo largo del tiempo.
+-Godot permite a los desarrolladores comenzar con proyectos simples y escalarlos a juegos más complejos. Esta adaptabilidad y escalabilidad representan una forma de hibridación, ya que la plataforma se ajusta a las necesidades cambiantes de los desarrolladores y proyectos a lo largo del tiempo.
 
 ## Conclusión
 
