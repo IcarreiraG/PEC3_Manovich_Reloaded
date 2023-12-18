@@ -16,6 +16,7 @@ Teniendo esto en cuenta, vamos a ejemplificar este concepto haciendo uso de dos 
 # Sony Vegas como Ejemplo de Hibridación en los Nuevos Medios  
 En un mundo donde las fronteras entre disciplinas artísticas
 
+![Logo de Godot Engine]([https://ejemplo.com/ejemplo.png](https://commons.wikimedia.org/wiki/File:Godot_logo.svg#/media/Archivo:Godot_logo.svg))
 ## Características de Hibridación en Vegas Pro
 
 1. **Integración de Múltiples Medios:**
@@ -36,7 +37,7 @@ Podemos decir que Vegas Pro se erige como una ejemplificación destacada y repre
 
 Esto permite desdifujar los formatos que previamente estaban claramente definidos y gracias a su capacidad para parmitir la manipulación no lineal, la integración de efectos visuales y la adaptabilidad a diversos dispositivos,podemos decir que es una nueva forma de expresión cultural y mediática.
 
-# Godot Engine: Un Ejemplo de Hibridación Creativa
+# Godot Engine como Ejemplo de Hibridación Creativa
 
 Godot Engine se destaca como un ejemplo sobresaliente de hibridación creativa al fusionar distintos elementos que tradicionalmente se encuentran separados en el desarrollo de videojuegos. Esta plataforma de desarrollo de código abierto democratiza el acceso a la creación de juegos, incorporando características que reflejan la esencia de la hibridación en este ámbito.
 
@@ -63,6 +64,8 @@ Godot permite a los desarrolladores comenzar con proyectos simples y escalarlos 
 En resumen, Godot Engine encarna la hibridación creativa al reunir elementos diversos en un entorno unificado y accesible. Desde su enfoque multidisciplinario hasta su naturaleza de código abierto y su capacidad para escalar proyectos, Godot demuestra cómo la hibridación puede impulsar la innovación en el desarrollo de videojuegos.
 
 ***
+REFERENCIAS Y BIBLIOGRAFÍA
+
 
 De Andrea Calabró - logo.svg (originally godot_logo.svg) in Godot Engine at GitHub, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=40939493
 
