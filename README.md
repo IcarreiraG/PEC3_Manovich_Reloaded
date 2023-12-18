@@ -45,7 +45,7 @@ En un mundo donde las fronteras entre disciplinas artísticas están marcadas, V
 
 Podemos decir que Vegas Pro se erige como una ejemplificación destacada y representativa de los principios y características fundamentales de la hibridación en el ámbito digital,al fusionar la edición de video,audio y otros elementos multimedia en una única plataforma,para la creación de una obra audiovisual completamente nueva.
 
-Esto permite desdifujar los formatos que previamente estaban claramente definidos y gracias a su capacidad para parmitir la manipulación no lineal, la integración de efectos visuales y la adaptabilidad a diversos dispositivos,podemos decir que es una nueva forma de expresión cultural y mediática.
+Esto permite desdifujar los formatos que previamente estaban claramente definidos y gracias a su capacidad para permitir la manipulación no lineal, la integración de efectos visuales y la adaptabilidad a diversos dispositivos,podemos decir que es una nueva forma de expresión cultural y mediática.
 
 ---
 
