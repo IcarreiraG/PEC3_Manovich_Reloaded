@@ -36,7 +36,7 @@ En un mundo donde las fronteras entre disciplinas artísticas están marcadas, V
    - Además de la edición técnica, proporciona herramientas para la integración creativa de efectos visuales, animaciones y otros elementos, respaldando la hibridación en la expresión cultural y mediática.Además,la capacidad de trabajar con capas en Sony Vegas posibilita la hibridación al permitir la mezcla de diferentes tipos de contenido. Puedes superponer imágenes, videos o gráficos, creando composiciones visuales complejas y ricas en capas.Tambíen es posible crear proyectos que incorporen elementos animados de manera orgánica en la narrativa visual.
   
 5. **Elementos de VR:**
-   -Con el auge de la realidad virtual, Sony Vegas se adapta permitiendo la hibridación de contenido de VR con proyectos de video convencionales. Esto posibilita la creación de experiencias multimedia inmersivas que combinan elementos de realidad virtual con narrativas tradicionales.
+   - Con el auge de la realidad virtual, Sony Vegas se adapta permitiendo la hibridación de contenido de VR con proyectos de video convencionales. Esto posibilita la creación de experiencias multimedia inmersivas que combinan elementos de realidad virtual con narrativas tradicionales.
      
 6. **Una nueva narrativa:**
    - Al poder editar tanto video como audio,proporciona una nueva manera de enfocar la narrativa de los recurso empleados para dar un nuevo contexto al fusionarlos,pudiendo cambiar por completo el significado de los medios utilizados.
