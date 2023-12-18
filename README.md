@@ -85,7 +85,7 @@ Godot Engine se destaca como un ejemplo sobresaliente de hibridación creativa a
 
 8. **Música Dinámica y Respuesta a la Acción:**
 
-   -Al permitir la implementación de sistemas de música dinámica que responden a las acciones del jugador, se puede fusionar la banda sonora con la jugabilidad y mecanicas dejando de lado,la música "estática" tradicional en los juegos de antaño.
+   - Al permitir la implementación de sistemas de música dinámica que responden a las acciones del jugador, se puede fusionar la banda sonora con la jugabilidad y mecanicas dejando de lado,la música "estática" tradicional en los juegos de antaño.
 
 ## Conclusión
 
