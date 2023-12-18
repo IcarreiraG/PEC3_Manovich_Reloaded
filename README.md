@@ -44,6 +44,8 @@ Podemos decir que Vegas Pro se erige como una ejemplificación destacada y repre
 
 Esto permite desdifujar los formatos que previamente estaban claramente definidos y gracias a su capacidad para parmitir la manipulación no lineal, la integración de efectos visuales y la adaptabilidad a diversos dispositivos,podemos decir que es una nueva forma de expresión cultural y mediática.
 
+---
+
 # Godot Engine como Ejemplo de Hibridación Creativa
 
 Godot Engine se destaca como un ejemplo sobresaliente de hibridación creativa al fusionar distintos elementos que tradicionalmente se encuentran separados en el desarrollo de videojuegos. Esta plataforma de desarrollo de código abierto democratiza el acceso a la creación de juegos, incorporando características que reflejan la esencia de la hibridación en este ámbito.
