@@ -12,6 +12,7 @@ Por lo que, para empezar, podríamos describir el concepto de hibridación como 
 
 Teniendo esto en cuenta, vamos a ejemplificar este concepto haciendo uso de dos aplicaciones, por un lado,tendremos el editor de video y audio "Vegas Pro" y por otro, el motor "Godot Engine".
 
+---
 
 # Vegas Pro como Ejemplo de Hibridación en los Nuevos Medios  
 En un mundo donde las fronteras entre disciplinas artísticas están marcadas, Vegas Pro se erige como una de las opciones predilectas para la edición de video y audio, redefine la manera en que concebimos y damos vida a proyectos multimedia, ofreciendo una herramienta que facilita la innovación creativa para cada fotograma o sonido que queramos implementar en nuestra obra audiovisual,por lo que es un caso a tener en cuenta a la hora de hablar de hibridación.
