@@ -1,4 +1,8 @@
 # PEC3_Manovich_Reloaded
+
+Autor: Fausto Pérez Málaga
+Fecha: diciembre 2023
+
 Sony Vegas es un buen ejemplo de hibridación en el contexto de los nuevos medios y la cultura digital. La aplicación Sony Vegas, que inicialmente se desarrolló como un software de edición de video, ha evolucionado para abrazar y adaptarse a las tendencias de convergencia mediática y digitalización que Lev Manovich destaca.
 
 Integración de Múltiples Medios:
