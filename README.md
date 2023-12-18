@@ -10,11 +10,11 @@ Para ello, nos ayudaremos de las ideas que Lev Manovich describe en su obra "El 
 
 Por lo que, para empezar, podríamos describir el concepto de hibridación como la mezcla y combinación de diversas formas culturales, estilos y géneros, posibles gracias a la digitalización y la convergencia mediática.  
 
-Teniendo esto en cuenta, vamos a ejemplificar este concepto haciendo uso de dos aplicaciones, por un lado,tendremos el editor de video y audio "Vegas Pro" y por otro, el motor Godot Engine.
+Teniendo esto en cuenta, vamos a ejemplificar este concepto haciendo uso de dos aplicaciones, por un lado,tendremos el editor de video y audio "Vegas Pro" y por otro, el motor "Godot Engine".
 
 
-# Sony Vegas como Ejemplo de Hibridación en los Nuevos Medios  
-En un mundo donde las fronteras entre disciplinas artísticas
+# Vegas Pro como Ejemplo de Hibridación en los Nuevos Medios  
+En un mundo donde las fronteras entre disciplinas artísticas están marcadas, Vegas Pro se erige como una de las opciones predilectas para la edición de video y audio, redefine la manera en que concebimos y damos vida a proyectos multimedia, ofreciendo una herramienta que facilita la innovación creativa para cada fotograma o sonido que queramos implementar en nuestra obra audiovisual,por lo que es un caso a tener en cuenta a la hora de hablar de hibridación.
 
 ![Logo de Godot Engine]()
 ## Características de Hibridación en Vegas Pro
@@ -23,13 +23,16 @@ En un mundo donde las fronteras entre disciplinas artísticas
    - Sony Vegas permite la edición de video, audio y otros elementos multimedia en una sola plataforma, desdibujando las fronteras entre formatos tradicionalmente separados.
 
 2. **Interactividad y Base de Datos:**
-   - Ofrece herramientas para la manipulación no lineal de contenido multimedia, permitiendo a los usuarios trabajar con capas, efectos ,transiciones y otras capacidades de manera interactiva.
+   - Ofrece herramientas para la manipulación no lineal de contenido multimedia, permitiendo a los usuarios trabajar con capas, efectos ,transiciones y otras capacidades (de su base de datos o "librerias") de manera interactiva.
 
 3. **Adaptación a Diferentes Dispositivos:**
    - Evolucionó para ser compatible con varias plataformas y dispositivos, facilitando a los usuarios la edición en diferentes entornos.
 
 4. **Fusión de Elementos Creativos:**
    - Además de la edición técnica, proporciona herramientas para la integración creativa de efectos visuales, animaciones y otros elementos, respaldando la hibridación en la expresión cultural y mediática.
+     
+5. **Una nueva narrativa:**
+   - Al poder editar tanto video como audio,proporciona una nueva manera de enfocar la narrativa de los recurso empleados para dar un nuevo contexto al fusionarlos,pudiendo cambiar por completo el significado de los medios utilizados.
 
 ## Conclusión
 
@@ -41,7 +44,7 @@ Esto permite desdifujar los formatos que previamente estaban claramente definido
 
 Godot Engine se destaca como un ejemplo sobresaliente de hibridación creativa al fusionar distintos elementos que tradicionalmente se encuentran separados en el desarrollo de videojuegos. Esta plataforma de desarrollo de código abierto democratiza el acceso a la creación de juegos, incorporando características que reflejan la esencia de la hibridación en este ámbito.
 
-![Logo de Godot Engine]([https://ejemplo.com/ejemplo.png](https://commons.wikimedia.org/wiki/File:Godot_logo.svg#/media/Archivo:Godot_logo.svg))
+![Logo de Godot Engine]()
 
 ## Multiplataforma y Multidisciplinario
 
@@ -66,7 +69,11 @@ En resumen, Godot Engine encarna la hibridación creativa al reunir elementos di
 ***
 ## IMAGENES Y BIBLIOGRAFÍA  
 Lev Manovich (2013)."El software toma el mando".
+
+
 De Sony - upload: MARCODEDDE - https://www.vegascreativesoftware.com/it/vegas-pro/, Dominio público, https://commons.wikimedia.org/w/index.php?curid=109403342
+
+
 De Andrea Calabró - logo.svg (originally godot_logo.svg) in Godot Engine at GitHub, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=40939493
 
 
