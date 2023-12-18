@@ -3,11 +3,18 @@
 Autor: Iván Carreira González  
 Fecha: diciembre 2023
 
-# Sony Vegas como Ejemplo de Hibridación en los Nuevos Medios
+# La Hibridación según Lev Manovich   
+Si queremos entender el funcionamiento y la evolución de la cultura digital y los medios que la componen, debemos tener en cuenta un concepto clave llamado hibridación.  
 
-## Introducción
+Para ello, nos ayudaremos de las ideas que Lev Manovich describe en su obra "El software toma el mando",donde  nos enseña que la llegada del "software" ha marcado un antes y un despues en nuestras vidas,mejorandolas en muchos sentidos y transformando la sociedad hasta llegar al punto en el que estamos.  
 
-El concepto de hibridación, según Lev Manovich, se refiere a la mezcla y combinación de diversas formas culturales, estilos y géneros, posibles gracias a la digitalización y la convergencia mediática.
+Por lo que, para empezar, podríamos describir el concepto de hibridación como la mezcla y combinación de diversas formas culturales, estilos y géneros, posibles gracias a la digitalización y la convergencia mediática.  
+
+Teniendo esto en cuenta, vamos a ejemplificar este concepto haciendo uso de dos aplicaciones, por un lado Sony Vegas y por otro Godot Engine.
+
+
+
+## Sony Vegas como Ejemplo de Hibridación en los Nuevos Medios
 
 ## Características de Hibridación en Sony Vegas
 
